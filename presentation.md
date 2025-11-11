@@ -15,6 +15,8 @@ Before we talk about specific apps, these are the **universal risks** present ac
     * **Grooming:** An adult building trust with a child for the purpose of exploitation.
     * **Predatory Contact:** Any attempt by an adult to contact a child for abusive purposes.
     * **Sexual Harassment:** Unwanted sexual comments, messages, or images.
+* **💸 Financial Risks:**
+    * **Microtransactions & In-App Purchases:** These are small, frequent payments for digital items (like "Robux" in Roblox, "skins," or "loot boxes"). These systems are designed to be addictive, can mimic gambling, and may lead to children spending significant amounts of real money without understanding the cost.
 * **Digital & Behavioral Risks:**
     * **Addiction:** Compulsive use that interferes with school, sleep, and real-life relationships.
     * **Privacy Breaches:** Having personal data (like location or photos) exposed.
@@ -32,7 +34,7 @@ A table is the clearest way to present this to parents for easy comparison.
 | :--- | :--- | :--- | :--- |
 | **YouTube** | The largest video-sharing platform. | Exposure to inappropriate content (violence, hate speech, mature themes), cyberbullying in comments, addictive rabbit holes. | **High** |
 | **YouTube Kids** | A "safer," curated version for kids. | Inappropriate content can still slip through filters; promotes excessive screen time (addiction). | **Medium** |
-| **Roblox** | A "universe" of user-created games. | **Grooming** (strangers in chat), **Bullying**, **Scams** (buying "Robux"), exposure to sexual or violent user-created games. | **High** |
+| **Roblox** | A "universe" of user-created games. | **Grooming** (strangers in chat), **Bullying**, **Scams**, **Microtransaction addiction** (Robux), exposure to sexual/violent user-created games. | **High** |
 | **Minecraft** | A creative "building block" game. | Bullying in multiplayer servers, contact with strangers, exposure to inappropriate language. | **Medium** |
 
 #### ⚠️ **"13+" Apps Your Child May Be Using**
@@ -65,7 +67,15 @@ The risks aren't just theoretical. They can lead to real-world changes in your c
 * **Low Self-Esteem** or new concerns about their body or appearance.
 * **Social Withdrawal** from family and real-life friends.
 * **Sleep Disturbances** or being tired all the time.
-* **Impaired Attention** and difficulty focusing on homework.
+
+#### 📉 Cognitive & Developmental Risks
+* **Shortened Attention Spans:** The fast-paced, rapid-reward nature of apps like TikTok can make it harder for children to focus on slower, real-world tasks like reading or homework.
+* **Desensitization:** Repeated exposure to casual swearing, violence, or sexualized content can normalize these behaviors and reduce a child's real-world emotional response.
+
+#### 🌀 Deeper Content Risks
+* **Misinformation:** Children can be easily exposed to and believe "fake news," harmful health advice, or conspiracy theories.
+* **Algorithmic Rabbit Holes:** The algorithm is designed to show them *more* of what they watch. This can quickly lead a child from innocent content to more extreme and harmful topics (e.g., disordered eating, hate speech).
+* **Harmful "Challenges" & Trends:** Viral dares (common on TikTok and YouTube) can encourage dangerous, real-world behavior that can lead to serious physical injury.
 
 #### ⚙️ Addictive Behaviors They Are Designed to Create
 * **Gaming Addiction (Roblox, Minecraft):** Prioritizing gaming over school, sleep, or friends.
